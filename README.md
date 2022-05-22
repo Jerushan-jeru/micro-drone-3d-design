@@ -125,9 +125,9 @@
 
 
 - Day - 10
- - Animation
- - Storyboards
- - Transformations
- - Annotation
- - Changing the view
- - Share your animation
+  - Animation
+  - Storyboards
+  - Transformations
+  - Annotation
+  - Changing the view
+  - Share your animation
