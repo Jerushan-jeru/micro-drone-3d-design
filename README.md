@@ -76,8 +76,8 @@
 
 
 - Day - 06
- - Construct plan
- - Design: solid
+  - Construct plan
+  - Design: solid
     - Extrude
     - Revolve
     - Sweep
